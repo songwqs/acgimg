@@ -2,4 +2,5 @@
 
 调用url:  
 
-https://cdn.jsdelivr.net/gh/songwqs/acgimg/
+https://cdn.jsdelivr.net/gh/songwqs/acgimg@main/
+https://cdn.staticaly.com/gh/songwqs/acgimg@main/
